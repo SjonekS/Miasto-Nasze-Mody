@@ -1,0 +1,22 @@
+## Build and binary outputs
+bin/
+obj/
+publish/
+
+## User-specific and Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Local runtime data and backups (never commit player data)
+data/
+backups/
+.temp/
+manager-data/
+
+## Compressed archives
+*.rar
+*.zip
+*.7z
