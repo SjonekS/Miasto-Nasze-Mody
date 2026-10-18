@@ -1,6 +1,6 @@
-# Among Us Mod Manager (TouMira) — v2.0
+# Among Us Mod Manager — v2.0
 
-Oficjalny, bezpieczny menedżer modyfikacji dla gry **Among Us** dedykowany paczce modów **TouMira**.
+Oficjalny, bezpieczny menedżer modyfikacji dla gry **Among Us** dedykowany paczce modów **Miasto Nasze Mira**.
 
 Aplikacja typu **Single-File Portable** — działa od razu bez instalacji i bez konieczności instalowania zewnętrznych pakietów SDK .NET.
 
